@@ -6,7 +6,7 @@
   - `Exploration.ipynb`: Exploratory data analysis (EDA).
   - `Training.ipynb`: Data preprocessing, model training, and inference.
   - `submission.ipynb`: Contains cells from the other two notebooks for submission.
-
+  - `Full_Project_Notebook.ipynb`: Contain the final summary of all the previous.
 ---
 
 ## Model Pipeline: Step-by-Step
